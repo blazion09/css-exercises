@@ -20,6 +20,20 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display:flex;
+  padding: 16px;
+  gap: 16px;
+}
+
+.iconContainer{
+
+}
+
+.headerContainer{
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 700; 
 }
 
 .icon {
